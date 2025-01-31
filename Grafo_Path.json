@@ -1,51 +1,33 @@
 {
-  "nodes": [
-    {
-      "id": "grafo_path",
-      "label": "Grafo Path",
-      "file": "Grafo_Path.json"
-    },
-    {
-      "id": "servicios_2024",
-      "label": "Servicios 2024",
-      "file": "Conocimiento/Servicios2024.md"
-    },
-    {
-      "id": "talento_operacion_2025",
-      "label": "Talento Operación 2025",
-      "file": "Conocimiento/Talento Operación 2025.md"
-    },
-    {
-      "id": "tarifas_ciencuadras",
-      "label": "Tarifas CIencuadras 2025",
-      "file": "Conocimiento/Tarifas CIencuadras 2025.csv"
-    },
-    {
-      "id": "readme",
-      "label": "README",
-      "file": "README.md"
-    }
-  ],
-  "edges": [
-    {
-      "source": "grafo_path",
-      "target": "servicios_2024",
-      "label": "Relacionado con Servicios"
-    },
-    {
-      "source": "grafo_path",
-      "target": "talento_operacion_2025",
-      "label": "Relacionado con Talento"
-    },
-    {
-      "source": "grafo_path",
-      "target": "tarifas_ciencuadras",
-      "label": "Relacionado con Tarifas"
-    },
-    {
-      "source": "grafo_path",
-      "target": "readme",
-      "label": "Documentación general"
-    }
-  ]
+    "nodes": [
+        {
+            "id": "Análisis de Participación Servicios 2024.md",
+            "path": "Conocimiento\\Análisis de Participación Servicios 2024.md"
+        },
+        {
+            "id": "Límites Geográficos.md",
+            "path": "Conocimiento\\Límites Geográficos.md"
+        },
+        {
+            "id": "Protocolo de Análisis Financiero.md",
+            "path": "Conocimiento\\Protocolo de Análisis Financiero.md"
+        },
+        {
+            "id": "Servicios2024.md",
+            "path": "Conocimiento\\Servicios2024.md"
+        },
+        {
+            "id": "Servicios2025.md",
+            "path": "Conocimiento\\Servicios2025.md"
+        },
+        {
+            "id": "Talento Operación 2025.md",
+            "path": "Conocimiento\\Talento Operación 2025.md"
+        },
+        {
+            "id": "Tarifas Ciencuadras 2025.csv",
+            "path": "Conocimiento\\Tarifas Ciencuadras 2025.csv"
+        }
+    ],
+    "edges": []
 }

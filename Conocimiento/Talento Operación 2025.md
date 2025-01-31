@@ -7,6 +7,7 @@ César Rodríguez
 Salario: $2.000.000
 Tiempo Completo
 Base: Bogotá - Ciudadela Colsubsidio
+
 BOGOTÁ:
 
 Consultor Norte: Valeria Carolina Rico Cárdenas
@@ -21,6 +22,7 @@ Consultor Sur: Carlos Arturo Vargas Castellanos
 Base: Cra 19a 1 84 sur Torre 9 Apto 603
 Salario: $2.000.000
 Tiempo Completo
+
 VALLE DEL CAUCA:
 
 Consultor: Judy Viviana Hernández Trujillo
@@ -56,6 +58,7 @@ AL DESTAJO (3):
 1 en Boyacá
 1 en Ibagué
 1 en Girardot/Flandes
+
 Distribución Geográfica
 Cobertura Principal:
 
@@ -64,16 +67,19 @@ Cali: 1 consultor dedicado
 Tunja: 1 consultor destajo
 Ibagué: 1 consultor destajo
 Girardot: 1 consultor destajo
+
 Estructura de Costos 2025
 DEDICADOS:
 
 Bogotá/Soacha: $50,000
 Cali: $51,000
+
 DESTAJO:
 
 Tunja: $42,900
 Ibagué: $42,900
 Girardot/Flandes: $42,900
+
 Conclusiones
 Total Consultores: 7
 Dedicados: 4 (57%)
