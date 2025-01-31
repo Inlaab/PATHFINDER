@@ -4,10 +4,10 @@ import glob
 import subprocess
 
 # Ruta del grafo
-GRAPH_FILE = os.path.join(os.path.dirname(__file__), '..', 'Grafo_Path.json')  # Guardar en el directorio principal
+GRAPH_FILE = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'Grafo_Path.json'))  # Guardar en el directorio principal
 
 # Directorio de la carpeta de conocimiento
-KNOWLEDGE_DIR = os.path.join(os.path.dirname(__file__), '..', 'Conocimiento')
+KNOWLEDGE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'Conocimiento'))
 
 # Crear grafo basado en archivos
 def generate_knowledge_graph():
@@ -45,4 +45,4 @@ def git_commit_and_push():
 
 if __name__ == "__main__":
     generate_knowledge_graph()
-    # git_commit_and_push()
+    git_commit_and_push()
