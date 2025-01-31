@@ -2,31 +2,31 @@
     "nodes": [
         {
             "id": "Análisis de Participación Servicios 2024.md",
-            "path": "Conocimiento\\Análisis de Participación Servicios 2024.md"
+            "path": "Conocimiento/Análisis de Participación Servicios 2024.md"
         },
         {
             "id": "Límites Geográficos.md",
-            "path": "Conocimiento\\Límites Geográficos.md"
+            "path": "Conocimiento/Límites Geográficos.md"
         },
         {
             "id": "Protocolo de Análisis Financiero.md",
-            "path": "Conocimiento\\Protocolo de Análisis Financiero.md"
+            "path": "Conocimiento/Protocolo de Análisis Financiero.md"
         },
         {
             "id": "Servicios2024.md",
-            "path": "Conocimiento\\Servicios2024.md"
+            "path": "Conocimiento/Servicios2024.md"
         },
         {
             "id": "Servicios2025.md",
-            "path": "Conocimiento\\Servicios2025.md"
+            "path": "Conocimiento/Servicios2025.md"
         },
         {
             "id": "Talento Operación 2025.md",
-            "path": "Conocimiento\\Talento Operación 2025.md"
+            "path": "Conocimiento/Talento Operación 2025.md"
         },
         {
             "id": "Tarifas Ciencuadras 2025.csv",
-            "path": "Conocimiento\\Tarifas Ciencuadras 2025.csv"
+            "path": "Conocimiento/Tarifas Ciencuadras 2025.csv"
         }
     ],
     "edges": []
