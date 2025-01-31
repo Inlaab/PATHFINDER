@@ -21,6 +21,12 @@ def generate_knowledge_graph():
         print(f"El directorio {KNOWLEDGE_DIR} no existe.")
         return
     
+    # Incluir la carpeta Conocimiento como un nodo
+    graph["nodes"].append({
+        "id": "Conocimiento",
+        "path": os.path.relpath(KNOWLEDGE_DIR, os.path.dirname(GRAPH_FILE)).replace("\\", "/")
+    })
+    
     # Obtener lista de archivos en la carpeta de conocimiento
     files = glob.glob(os.path.join(KNOWLEDGE_DIR, "*"))
     print(f"Archivos encontrados en {KNOWLEDGE_DIR}: {files}")

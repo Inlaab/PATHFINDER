@@ -1,6 +1,10 @@
 {
     "nodes": [
         {
+            "id": "Conocimiento",
+            "path": "Conocimiento"
+        },
+        {
             "id": "Análisis de Participación Servicios 2024.md",
             "path": "Conocimiento/Análisis de Participación Servicios 2024.md"
         },
