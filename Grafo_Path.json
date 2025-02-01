@@ -1,36 +1,32 @@
 {
     "nodes": [
         {
-            "id": "Conocimiento",
-            "path": "Conocimiento"
+            "id": "An\u00e1lisis de Participaci\u00f3n Servicios 2024.md",
+            "path": "Conocimiento\\An\u00e1lisis de Participaci\u00f3n Servicios 2024.md"
         },
         {
-            "id": "Análisis de Participación Servicios 2024.md",
-            "path": "Conocimiento/Análisis de Participación Servicios 2024.md"
+            "id": "L\u00edmites Geogr\u00e1ficos.md",
+            "path": "Conocimiento\\L\u00edmites Geogr\u00e1ficos.md"
         },
         {
-            "id": "Límites Geográficos.md",
-            "path": "Conocimiento/Límites Geográficos.md"
-        },
-        {
-            "id": "Protocolo de Análisis Financiero.md",
-            "path": "Conocimiento/Protocolo de Análisis Financiero.md"
+            "id": "Protocolo de An\u00e1lisis Financiero.md",
+            "path": "Conocimiento\\Protocolo de An\u00e1lisis Financiero.md"
         },
         {
             "id": "Servicios2024.md",
-            "path": "Conocimiento/Servicios2024.md"
+            "path": "Conocimiento\\Servicios2024.md"
         },
         {
             "id": "Servicios2025.md",
-            "path": "Conocimiento/Servicios2025.md"
+            "path": "Conocimiento\\Servicios2025.md"
         },
         {
-            "id": "Talento Operación 2025.md",
-            "path": "Conocimiento/Talento Operación 2025.md"
+            "id": "Talento Operaci\u00f3n 2025.md",
+            "path": "Conocimiento\\Talento Operaci\u00f3n 2025.md"
         },
         {
             "id": "Tarifas Ciencuadras 2025.csv",
-            "path": "Conocimiento/Tarifas Ciencuadras 2025.csv"
+            "path": "Conocimiento\\Tarifas Ciencuadras 2025.csv"
         }
     ],
     "edges": []
