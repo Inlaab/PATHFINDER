@@ -16,16 +16,18 @@ def generate_knowledge_graph():
         "edges": []
     }
     
-    # Obtener lista de archivos en la carpeta de conocimiento
-    files = glob.glob(os.path.join(KNOWLEDGE_DIR, "*"))
+    # Obtener lista de todos los archivos en la carpeta de conocimiento
+    files = glob.glob(os.path.join(KNOWLEDGE_DIR, "**"), recursive=True)
     
     for file_path in files:
-        file_name = os.path.basename(file_path)
-        node = {
-            "id": file_name,
-            "path": file_path
-        }
-        graph["nodes"].append(node)
+        # Validar si es un archivo regular
+        if os.path.isfile(file_path):
+            file_name = os.path.basename(file_path)
+            node = {
+                "id": file_name,
+                "path": file_path
+            }
+            graph["nodes"].append(node)
 
     # Guardar el grafo en formato JSON en la raíz del repositorio
     with open(GRAPH_FILE, "w") as graph_file:
