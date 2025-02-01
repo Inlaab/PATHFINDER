@@ -1,16 +1,16 @@
 {
     "nodes": [
         {
-            "id": "Análisis de Participación Servicios 2024.md",
-            "path": "..\\Conocimiento\\Análisis de Participación Servicios 2024.md"
+            "id": "Analisis_de_Participacion_Servicios_2024.md",
+            "path": "..\\Conocimiento\\Analisis_de_Participacion_Servicios_2024.md"
         },
         {
-            "id": "Límites Geográficos.md",
-            "path": "..\\Conocimiento\\Límites Geográficos.md"
+            "id": "Limites_Geograficos.md",
+            "path": "..\\Conocimiento\\Limites_Geograficos.md"
         },
         {
-            "id": "Protocolo de Análisis Financiero.md",
-            "path": "..\\Conocimiento\\Protocolo de Análisis Financiero.md"
+            "id": "Protocolo_de_Analisis_Financiero.md",
+            "path": "..\\Conocimiento\\Protocolo_de_Analisis_Financiero.md"
         },
         {
             "id": "Servicios2024.md",
@@ -21,12 +21,16 @@
             "path": "..\\Conocimiento\\Servicios2025.md"
         },
         {
-            "id": "Talento Operación 2025.md",
-            "path": "..\\Conocimiento\\Talento Operación 2025.md"
+            "id": "Talento_Operacion_2025.md",
+            "path": "..\\Conocimiento\\Talento_Operacion_2025.md"
         },
         {
-            "id": "Tarifas Ciencuadras 2025.csv",
-            "path": "..\\Conocimiento\\Tarifas Ciencuadras 2025.csv"
+            "id": "Tarifas_Ciencuadras_2025.csv",
+            "path": "..\\Conocimiento\\Tarifas_Ciencuadras_2025.csv"
+        },
+        {
+            "id": "Tarifas_Ciencuadras_2025.md",
+            "path": "..\\Conocimiento\\Tarifas_Ciencuadras_2025.md"
         }
     ],
     "edges": []
