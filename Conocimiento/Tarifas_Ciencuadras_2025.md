@@ -1,5 +1,5 @@
-| ﻿TARIFAS VOLROD 2025;; |
-| Departamento;Municipio;Tarifa |
+TARIFAS VOLROD 2025
+| Departamento;Municipio;Tarifa
 | Cundinamarca;Bojacá;$ 102.300
 | Cundinamarca;Cajicá;$ 99.000
 | Cundinamarca;Cáqueza;$ 102.300
